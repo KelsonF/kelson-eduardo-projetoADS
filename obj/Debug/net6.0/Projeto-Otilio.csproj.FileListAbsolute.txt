@@ -267,3 +267,4 @@ C:\Users\kfedu\programming\ifpi\Projeto-Otilio\obj\Debug\net6.0\refint\Projeto-O
 C:\Users\kfedu\programming\ifpi\Projeto-Otilio\obj\Debug\net6.0\Projeto-Otilio.pdb
 C:\Users\kfedu\programming\ifpi\Projeto-Otilio\obj\Debug\net6.0\Projeto-Otilio.genruntimeconfig.cache
 C:\Users\kfedu\programming\ifpi\Projeto-Otilio\obj\Debug\net6.0\ref\Projeto-Otilio.dll
+C:\Users\kfedu\programming\ifpi\Projeto-Otilio\obj\Debug\net6.0\Projeto-Otilio.sourcelink.json
