@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto-Otilio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7211ebc35051053ec64910012725aeb46a000aff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto-Otilio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto-Otilio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
